@@ -12,4 +12,4 @@
 - 숭실대학교 산학협력단 연구원(21.03~23.02)
 
 #이력
-https://www.linkedin.com/in/haramkim68
+- https://www.linkedin.com/in/haramkim68
