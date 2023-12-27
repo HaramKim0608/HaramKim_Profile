@@ -7,10 +7,10 @@
 - 숭실대학교 컴퓨터공학 공학사 졸업
 
 #연구
-- 분야: 산업공학, 유통물류, SME, 플랫폼
+- 분야: 산업공학, 유통물류, SME, 플랫폼, 디지털 전환
 - 기술: 데이터 분석, 머신러닝, 딥러닝, BPMN
 - 언어: Python, JAVA, SQL, MATLAB, C, HTML/CSS
-- 도구: Google Analytics, KNIME, KH Coder, Rapid Miner, Orange 3
+- 도구: MS Azure, Google Analytics, KNIME, KH Coder, Rapid Miner, Orange 3
 - 도움: ChatGPT, Copilot, Wrtn
 
 #경력
