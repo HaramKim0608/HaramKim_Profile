@@ -1,5 +1,5 @@
 #김하람 Haram Kim
-- E: haramkim68@{naver.com, soongsil.ac.kr, kookmin.ac.kr}
+- E: haramkim68@{naver.com, soongsil.ac.kr}
 
 #학력
 - 숭실대학교 일반대학원 산업정보시스템공학과 공학박사 재학 중
@@ -7,16 +7,14 @@
 - 숭실대학교 컴퓨터공학과 공학사 졸업
 
 #연구
-- 분야: 산업공학, 유통물류, SME, 플랫폼, 디지털 전환
-- 기술: 데이터 분석, 머신러닝, 딥러닝, BPMN
+- 주제: 산업공학, 유통물류, SME, 플랫폼, 디지털 전환
+- 분야: 데이터 분석, 머신러닝, 딥러닝, BPMN
 - 언어: Python, JAVA, SQL, MATLAB, R, C, HTML/CSS
 - 도구: MS Azure, Google Analytics, KNIME, KH Coder, Rapid Miner, Orange 3, SPSS
-- 도움: ChatGPT, Copilot, Wrtn
 
 #경력
 - 국민대학교 플랫폼SME연구센터 전임연구원(23.07~현재)
-- 로지스올시스템즈 운영혁신담당 프로(23.02~23.07)
-- 숭실대학교 산학협력단 연구 조교(21.03~23.02)
+- 숭실대학교 산학협력단 연구조교(21.03~23.02)
 
 #논문/프로젝트 및 기타 이력
 - https://www.linkedin.com/in/haramkim68
