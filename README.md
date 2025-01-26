@@ -17,4 +17,4 @@
 - 숭실대학교 산학협력단 연구조교(21.03~23.02)
 
 #논문/프로젝트 및 기타 이력
-- https://www.linkedin.com/in/haramkim68
+- https://sites.google.com/view/haramkim68
