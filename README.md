@@ -13,7 +13,7 @@
 - 도구: MS Azure, Google Analytics, KNIME, KH Coder, Rapid Miner, Orange 3, SPSS
 
 #경력
-- 국민대학교 플랫폼SME연구센터 전임연구원(23.07~현재)
+- 국민대학교 플랫폼SME연구센터 전임연구원(23.07~24.06)
 - 숭실대학교 산학협력단 연구조교(21.03~23.02)
 
 #논문/프로젝트 및 기타 이력
