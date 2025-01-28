@@ -3,9 +3,9 @@
 
 #Education
 - Ph.D. Student, Department of Industrial Information Systems Engineering, Soongsil University
-  Advisor: Dongsoo Kim(Lab: U-Biz Computing Lab)
+- Advisor: Dongsoo Kim(Lab: U-Biz Computing Lab)
 - MS, Department of IT Distribution and Logistics, Soongsil University
-  Advisor: Dongsoo Kim(Lab: U-Biz Computing Lab)
+- Advisor: Dongsoo Kim(Lab: U-Biz Computing Lab)
 - BE, Department of Computer Engineering, Soongsil University
 
 #Research
