@@ -3,13 +3,9 @@
 
 #Education
 - Ph.D. Student, Department of Industrial Information Systems Engineering, Soongsil University
-  Dissertation: -
-  Advisor: Dongsoo Kim
-  Laboratory: U-Biz Computing Lab
+  Advisor: Dongsoo Kim(Lab: U-Biz Computing Lab)
 - MS, Department of IT Distribution and Logistics, Soongsil University
-  Dissertation: "Pest Classification Model for Horticultural Crops using Deep Learning"
-  Advisor: Dongsoo Kim
-  Laboratory: U-Biz Computing Lab
+  Advisor: Dongsoo Kim(Lab: U-Biz Computing Lab)
 - BE, Department of Computer Engineering, Soongsil University
 
 #Research
