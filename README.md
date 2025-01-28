@@ -15,10 +15,8 @@
 - Tool: KNIME, SPSS, Bizagi, Tableau, PowerBI, Adobe, MS Azure, KH Coder, RapidMiner, Orange 3, GA4
 
 #Work Experiences
-- Kookmin University Platform SME Research Center / Data Team
-  Researcher(2023.07~2024.06)
-- Soongsil University Academy-Indusry Foundation / U-Biz Computing Lab
-  Research Assistant(2021.03~2023.02)
+- Kookmin University Platform SME Research Center / Data Team(Researcher(2023.07~2024.06))
+- Soongsil University Academy-Indusry Foundation / U-Biz Computing Lab(Research Assistant(2021.03~2023.02))
 
 #Papers/Projects and Other History
 - https://sites.google.com/view/haramkim68
